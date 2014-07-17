@@ -38,6 +38,9 @@ TODO
      are terrible, and this store and pather would go a long way to pruning 
      inefficient paths from the breadth iterator.
      
+  2. Implement a `VisitMatcher` that determines if a `Path` has visited 
+     `Verticies` in a specific order, ignoring non-specified visitors.
+  
 Developing
 ---------
 
