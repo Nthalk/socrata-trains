@@ -24,16 +24,16 @@ Scripts
 
 Packaged are a couple of scripts to interact with the project. 
 
-  1) `scripts/test.sh` runs the `sbt test` which triggers the ScalaTest suite.
-  2) `scripts/run.sh` compiles and runs the main program with the `input.txt` 
+  1. `scripts/test.sh` runs the `sbt test` which triggers the ScalaTest suite.
+  2. `scripts/run.sh` compiles and runs the main program with the `input.txt` 
     piped in.
-  3) `scripts/verify.sh` runs the run script and diffs the output with the 
+  3. `scripts/verify.sh` runs the run script and diffs the output with the 
     `output.txt` file.
     
 TODO
 ---------
 
-  1) Implement `PathCostStore` and a 
+  1. Implement `PathCostStore` and a 
      `CheapestBreadthPather(PathCostStore, costFn)` The shortest path algorithms 
      are terrible, and this store and pather would go a long way to pruning 
      inefficient paths from the breadth iterator.
