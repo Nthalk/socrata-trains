@@ -1,7 +1,7 @@
 Trains
 ================================================================================
 
-This codebase is a solution to PROBLEM ONE: TRAINS as described by PROBLEM.md
+This codebase is a solution to `PROBLEM ONE: TRAINS` as described by PROBLEM.txt
 
 Strategy
 ---------
