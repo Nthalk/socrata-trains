@@ -3,7 +3,7 @@ Trains
 
 This codebase is a solution to `PROBLEM ONE: TRAINS` as described by PROBLEM.txt
 
-![alt text](https://github.com/Nthalk/socrata-trains/raw/master/src/common/images/train_logo.png "Traaaaain!")
+![alt text](https://github.com/Nthalk/socrata-trains/raw/master/train_logo.png "Traaaaain!")
 
 
 Strategy
