@@ -32,6 +32,7 @@ Packaged are a couple of scripts to interact with the project.
     piped in.
   3. `scripts/verify.sh` runs the run script and diffs the output with the 
     `output.txt` file.
+  4. `scripts/all.sh` runs everything above as well as `sbt scalastyle`.
     
 TODO
 ---------
